@@ -1,3 +1,2 @@
 Welcome to roblox unblocked!
 
-scr = " https://now.gg/play/roblox-corporation/5349/roblox"
